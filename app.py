@@ -5,4 +5,4 @@ if number % 2 == 0:
 else:
     print(f"{number} is an odd number.")
 
-//This code is final nd no more commits need to be happen in this 
+//This code is final nd no more commits 
